@@ -123,3 +123,26 @@ function FeatureVectorTable({ vector = {}, zScores = {} }) {
 }
 
 export default FeatureVectorTable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

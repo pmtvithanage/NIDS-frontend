@@ -78,3 +78,27 @@ const DygraphLegend = forwardRef(function DygraphLegend({ info, formatter, onTog
 })
 
 export default DygraphLegend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

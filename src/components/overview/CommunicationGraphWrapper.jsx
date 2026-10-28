@@ -15,3 +15,27 @@ function CommunicationGraphWrapper() {
 }
 
 export default CommunicationGraphWrapper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

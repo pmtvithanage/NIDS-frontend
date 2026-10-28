@@ -119,3 +119,26 @@ export function useDygraphStream({ maxPoints, redraw, initialRows = [], refreshM
 
   return { bufferRef, paused, markFresh, replace, append, setData, pause, resume, stop }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
